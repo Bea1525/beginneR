@@ -3,7 +3,7 @@
 #'
 #' @param x One value of which the data typ is to be determined (factor, charackter, numeric)
 #'
-#' @returns The datatyp of the given value
+#' @returns A character naming the typ of data
 #' @export
 #'
 #' @examples

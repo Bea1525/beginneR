@@ -10,7 +10,7 @@ begin_typecheck(x)
 \item{x}{One value of which the data typ is to be determined (factor, charackter, numeric)}
 }
 \value{
-The datatyp of the given value
+A character naming the typ of data
 }
 \description{
 Determine the Datatype

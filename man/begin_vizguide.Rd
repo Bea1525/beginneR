@@ -7,7 +7,7 @@
 begin_vizguide()
 }
 \value{
-A List of links and text
+A character vector with a list of website names and URLs
 }
 \description{
 Providing Links for Data Visualizations

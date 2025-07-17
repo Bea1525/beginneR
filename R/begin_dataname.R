@@ -3,7 +3,7 @@
 #'
 #' @param path The path to the csv file to be loaded
 #'
-#' @returns A in R-Studio loaded and assigned dataset
+#' @returns A loaded and assigned dataset
 #' @export
 #'
 #' @examples
