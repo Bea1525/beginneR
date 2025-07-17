@@ -7,10 +7,10 @@
 begin_dataname(path)
 }
 \arguments{
-\item{path}{The path to the csv file to be loaded}
+\item{path}{The path to the csv file to be loaded.}
 }
 \value{
-A loaded and assigned dataset
+A loaded and as 'df' assigned dataset.
 }
 \description{
 Loading and Naming a Dataset
