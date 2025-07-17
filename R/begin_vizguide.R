@@ -1,10 +1,12 @@
 
-#' Title
+#' Providing Links for Data Visualizations
 #'
-#' @returns
+#' @returns A List of links and text
 #' @export
 #'
 #' @examples
+#' begin_vizguide()
+#'
 begin_vizguide <- function() {
   "Welcome to the world of R. Explore and Find out more about data visualization on the following links:"
   c("Get from Data to Visualization" = "https://www.data-to-viz.com/",
