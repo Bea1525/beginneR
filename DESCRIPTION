@@ -1,9 +1,12 @@
 Package: beginneR
-Title: What the Package Does (One Line, Title Case)
+Title: Beginner Friendly R Toolkit
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Beatrice Maria", "Flingelli", , "maria.flingelli@campus.lmu.de"
+Description: A collection of simple and beginner-friendly functions built entirely 
+             with Base R. 
+             This package is ideal for learning and practicing general R concepts 
+             in a lightweight environment.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
