@@ -2,7 +2,9 @@ Package: beginneR
 Title: Beginner Friendly R Toolkit
 Version: 0.0.0.9000
 Authors@R: 
-    person("Beatrice Maria", "Flingelli", , "maria.flingelli@campus.lmu.de")
+    person("Beatrice Maria", "Flingelli",
+           email = "maria.flingelli@campus.lmu.de",
+           role = c("aut", "cre"))
 Description: A collection of simple and beginner-friendly functions built entirely 
              with Base R. 
              This package is ideal for learning and practicing general R concepts 
